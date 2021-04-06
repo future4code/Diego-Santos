@@ -1,0 +1,25 @@
+.header {
+  background-color: gray;
+  text-align: center;
+  font-size: 50px;
+}
+
+.link-nav {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+  font: 50px;
+}
+
+ul {
+  text-align: center;
+  text-decoration-style: none;
+}
+
+.vendedores {
+  background-color: whitesmoke;
+  text-align: center;
+  font-size: 50px;
+}

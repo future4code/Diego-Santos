@@ -1,0 +1,25 @@
+.header {
+  text-align: center;
+  font-size: 50px;
+  background-color: gray;
+  box-sizing: border-box;
+}
+
+.nav-link {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+  border: 1px solid;
+}
+
+#table {
+  background-color: whitesmoke;
+  border: 1px solid;
+  text-align: center;
+}
+
+td {
+  border: solid 1px;
+}
