@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  text-align: center;
+  font-size: 40px;
+  border: 1px solid;
+  background-color: lightgray
+}
+
+.nav-link {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+form {
+  text-align: center;
+}
